@@ -1,7 +1,8 @@
+<img align="center" alt="Header" src="https://i.pinimg.com/564x/26/af/8a/26af8aae6e1f852ee260f451e9d0a922.jpg">
+
 <h1 align="center">Hi 👋, I'm MARIANE</h1>
 <h3 align="center">A passionate <i>aspirant and estitik</i> frontend developer </h3>
 
-<img align="center" alt="Header" src="https://pin.it/2ikBb2o">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m&label=Profile%20views&color=0e75b6&style=flat" alt="m" /> </p>
 
@@ -9,11 +10,11 @@
 
 - 🔭 I’m currently learning **Graphic Designing and Animations**
   
-- 👨‍💻 All of my [recent projects] are available at my Github account (github.com/marianeft)
+- 👨‍💻 All of my recent projects are available at my [Github account](github.com/marianeft)
 
-- 📈 Ask me about ** Web-Development** &
+- 📈 Ask me about **Web-Development** & **Creative Design**
 
-- 📫 How to reach me **marianefaith.torreverde@wvsu.edu.ph**
+- 📫 Reach me at **marianefaith.torreverde@wvsu.edu.ph**
 
 - 📄 Know about my coding experiences
       - C++

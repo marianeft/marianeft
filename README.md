@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m&label=Profile%20views&color=0e75b6&style=flat" alt="m" /> </p>
 
-- 🔭 I’m currently [dasdf](csdf.com)
+- 🔭 I’m currently working [as a part creatives commitee](csdf.com)
 
-- 🌱 I’m currently learning **Programming**
+- 🌱 I’m currently learning a **BSCS** student from **WVSU**
 
-- 🤝 I’m looking for help with [dasdf](csdf.com)
-
-- 👨‍💻 All of my recent projects [My Website](github.com/marianeft/honkohi)
+- 👨‍💻 All of my recent projects (github.com/marianeft/honkohi)
 
 - 📫 How to reach me **marianefaith.torreverde@wvsu.edu.ph**
 
@@ -23,7 +21,7 @@
       - Ruby
       - Java
 
-- ⚡ Fun fact **I like volleyball and watching films**
+- ⚡ Fun fact **I like volleyball 🏐 and watching films🎞️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

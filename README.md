@@ -6,25 +6,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m&label=Profile%20views&color=0e75b6&style=flat" alt="m" /> </p>
 
-- 🌱 I’m currently a **BSCS** student from **West Visayas State University**
+🌱 I’m currently a **BSCS** student from **West Visayas State University**
 
-- 🔭 I’m currently learning **Graphic Designing and Animations**
+🔭 I’m currently learning **Graphic Designing and Animations**
   
-- 👨‍💻 All of my recent projects are available at my [Github account](github.com/marianeft)
+👨‍💻 All of my recent projects are available at my [Github account](github.com/marianeft)
 
-- 📈 Ask me about **Web-Development** & **Creative Design**
+📈 Ask me about **Web-Development** & **Creative Design**
 
-- 📫 Reach me at **marianefaith.torreverde@wvsu.edu.ph**
+📫 Reach me at **marianefaith.torreverde@wvsu.edu.ph**
 
-- 📄 Know about my coding experiences
-      - C++
-      - HTML
-      - Javascript
-      - CSS
-      - Python
-      - jQuery
-      - Ruby
-      - Java
+📄 Know about my coding experiences
+- C++
+- HTML
+- Javascript
+- CSS
+- Python
+- jQuery
+- Ruby
+- Java
 
 - ⚡ Fun fact **I like volleyball 🏐 and watching films🎞️**
 

@@ -26,7 +26,7 @@
 - Ruby
 - Java
 
-- ⚡ Fun fact **I like volleyball 🏐 and watching films🎞️**
+⚡ Fun fact: **I like volleyball #31🏐 and watching films🎞️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

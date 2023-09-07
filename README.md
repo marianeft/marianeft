@@ -1,4 +1,4 @@
-<img align="center" alt="Header" src="https://i.pinimg.com/564x/26/af/8a/26af8aae6e1f852ee260f451e9d0a922.jpg">
+<img align="center" alt="Header" src="https://i.pinimg.com/originals/24/43/94/244394c9d49240ab401438a3998a225e.jpg">
 
 <h1 align="center">Hi 👋, I'm MARIANE</h1>
 <h3 align="center">A passionate aspirant and <i>estitik</i> front-end girlie✨ </h3>

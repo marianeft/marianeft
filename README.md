@@ -1,7 +1,7 @@
 <img align="center" alt="Header" src="https://i.pinimg.com/564x/26/af/8a/26af8aae6e1f852ee260f451e9d0a922.jpg">
 
 <h1 align="center">Hi 👋, I'm MARIANE</h1>
-<h3 align="center">A passionate <i>aspirant and estitik</i> frontend developer </h3>
+<h3 align="center">A passionate aspirant and <i>estitik</i> front-end girlie✨ </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m&label=Profile%20views&color=0e75b6&style=flat" alt="m" /> </p>

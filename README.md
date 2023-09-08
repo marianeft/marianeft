@@ -10,7 +10,7 @@
 
 🔭 I’m currently learning **Graphic Designing and Animations**
   
-👨‍💻 All of my recent projects are available at my [Github account](github.com/marianeft)
+👨‍💻 Recent projects t
 
 📈 Ask me about **Web-Development** & **Creative Design**
 

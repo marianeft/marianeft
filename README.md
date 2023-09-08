@@ -10,7 +10,7 @@
 
 🔭 I’m currently learning **Graphic Designing and Animations**
   
-👨‍💻 Recent projects t
+👨‍💻 Recent projects [![Readme Card](https://github.com/marianeft/honkohi)
 
 📈 Ask me about **Web-Development** & **Creative Design**
 

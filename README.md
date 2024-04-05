@@ -1,7 +1,7 @@
 <img align="center" alt="Header" src="https://i.pinimg.com/originals/24/43/94/244394c9d49240ab401438a3998a225e.jpg">
 
 <h1 align="center">Hi 👋, I'm MARIANE</h1>
-<h3 align="center">A passionate aspirant and <i>estitik</i> front-end girlie✨ </h3>
+<h3 align="center">A passionate aspirant and an <i>estitik</i> front-end girlie✨ </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m&label=Profile%20views&color=0e75b6&style=flat" alt="m" /> </p>
@@ -10,9 +10,9 @@
 
 🔭 I’m currently learning **Graphic Designing and Animations**
   
-👨‍💻 Recent projects [![Readme Card](https://github.com/marianeft/honkohi)
+👨‍💻 Recent projects [![here](https://github.com/marianeft/honkohi)
 
-📈 Ask me about **Web-Development** & **Creative Design**
+📈 Ask me about **Web-Development**, **Creative Design**, and **UX & UI Designing** 🙀
 
 📫 Reach me at **marianefaith.torreverde@wvsu.edu.ph**
 
@@ -22,11 +22,8 @@
 - Javascript
 - CSS
 - Python
-- jQuery
-- Ruby
-- Java
 
-⚡ Fun fact: **I like volleyball #31🏐 and watching films🎞️**
+⚡ Fun fact: **I like F1 #55🏎️, volleyball🏐 and watching films🎞️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -10,7 +10,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><i>Full-stack developer in the making</i>i></h2></summary>
+    <summary><h2 style="display: inline-block"><i>Full-stack developer in the making</i></h2></summary>
   </ul>
 </div>
 
@@ -44,7 +44,7 @@
 
 ### Github Statistics 🚀
 ![Mariane's github stats](https://github-readme-stats.vercel.app/api?username=marianeft&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marianeft&theme=tokyonight" alt="gitstats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marianeft&theme=tokyonight&layout=compact" alt="gitstats"/>
 ![Mariane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianeft&theme=tokyonight&layout=compact)
 
 

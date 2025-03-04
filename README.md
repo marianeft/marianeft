@@ -10,7 +10,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><i>Full-stack developer in the making</i></h2></summary>
+    <summary><h5=4 style="display: inline-block"><i>Full-stack developer in the making</i></h4></summary>
   </ul>
 </div>
 

@@ -43,7 +43,6 @@
 <!--Intro end-->
 
 ### Github Statistics 🚀
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![Mariane's github stats](https://github-readme-stats.vercel.app/api?username=marianeft&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=marianeft&theme=tokyonight" alt="gitstats"/>
 ![Mariane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianeft&theme=tokyonight&layout=compact)

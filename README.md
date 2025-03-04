@@ -1,20 +1,34 @@
 <img align="center" alt="Header" src="https://i.pinimg.com/originals/24/43/94/244394c9d49240ab401438a3998a225e.jpg">
 
-<h1 align="center">Hi 👋, I'm MARIANE</h1>
-<h3 align="center">Full-stack developer in the making✨ </h3>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mariane</h1></summary>
+  </ul>
+</div>
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><i>Full-stack developer in the making</i>i></h2></summary>
+  </ul>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m&label=Profile%20views&color=0e75b6&style=flat" alt="m" /> </p>
+<!--Profile Visits-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=m&label=Profile%20views&color=0e75b6&style=flat" alt="m" /> </p>
 
+<!--Intro start-->
 🌱 I’m currently a **Bachelor of Science in Computer Science** student from **West Visayas State University**
 
 🔭 I’m currently learning **Graphic Designing and Animations**
   
-👨‍💻 Recent projects [![here](https://github.com/marianeft/honkohi)
+☁️ I've keen interest and learning **AI** and **Machine Learning**
+
+📝 I write articles on [Medium](https://medium.com/@nbszbogu/)
 
 📈 Ask me about **Web-Development**, **Creative Design**, and **UX & UI Designing** 🙀
 
-📫 Reach me at **marianefaith.torreverde@wvsu.edu.ph**
+📫 Feel free to reach me at **marianefaith.torreverde@wvsu.edu.ph**
 
 📄 Know about my coding experiences
 - C++
@@ -24,11 +38,18 @@
 - Python
 - Java
 
-[![Mariane's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marianeft&theme=tokyonight)](https://git.io/praveenscience)
-
 ⚡ Fun fact: **I like F1 #55🏎️, volleyball🏐 and watching films🎞️**
 
-<h3 align="left">Connect with me:</h3>
+<!--Intro end-->
+
+### Github Statistics 🚀
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![Mariane's github stats](https://github-readme-stats.vercel.app/api?username=marianeft&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marianeft&theme=tokyonight" alt="gitstats"/>
+![Mariane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianeft&theme=tokyonight&layout=compact)
+
+
+### Connect with me 🧭
 <p align="left">
 <a href="https://twitter.com/maryan6ft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m" height="30" width="40" /></a>
 <a href="https://fb.com//maryantorreverde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/maryan" height="30" width="40" /></a>

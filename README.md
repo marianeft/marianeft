@@ -3,7 +3,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Mariane</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Mariane 👋</h1></summary>
   </ul>
 </div>
 
@@ -20,13 +20,13 @@
 <!--Intro start-->
 🌱 I’m currently a **Bachelor of Science in Computer Science** student from **West Visayas State University**
 
-🔭 I’m currently learning **Graphic Designing and Animations**
+🔭 I’m into **Graphic Designing and Animations**
   
 ☁️ I've keen interest and learning **AI** and **Machine Learning**
 
-📝 I write articles on [Medium](https://medium.com/@nbszbogu/)
+📝 I (sometimes) write articles on [Medium](https://medium.com/@nbszbogu/)
 
-📈 Ask me about **Web-Development**, **Creative Design**, and **UX & UI Designing** 🙀
+📈 Ask me about **Web-Development**, and **UX & UI Designing** 🙀
 
 📫 Feel free to reach me at **marianefaith.torreverde@wvsu.edu.ph**
 
@@ -38,7 +38,7 @@
 - Python
 - Java
 
-⚡ Fun fact: **I like F1 #55🏎️, volleyball🏐 and watching films🎞️**
+⚡ Fun fact: **I like F1 #55🏎️, volleyball🏐 and watching [film](https://letterboxd.com/maryanft/)🎞️**
 
 <!--Intro end-->
 
@@ -49,10 +49,10 @@
 
 
 ### Connect with me 🧭
-<p align="left">
-<a href="https://twitter.com/maryan6ft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m" height="30" width="40" /></a>
+
 <a href="https://fb.com//maryantorreverde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/maryan" height="30" width="40" /></a>
+
 <a href="https://instagram.com/maryanft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/myan819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m" height="30" width="40" /></a>
+
 <a href="https://discord.gg/ymdumzqrmuft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m" height="30" width="40" /></a>
 </p>

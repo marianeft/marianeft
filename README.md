@@ -49,9 +49,9 @@
 
 
 ### Connect with me 🧭
-
+<span>
 <a href="https://fb.com//maryantorreverde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/maryan" height="30" width="40" /></a>
 
 <a href="https://instagram.com/maryanft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m" height="30" width="40" /></a>
 
-<a href="https://discord.gg/ymdumzqrmuft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m" height="30" width="40" /></a>
+<a href="https://discord.gg/ymdumzqrmuft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m" height="30" width="40" /></a> </span>
